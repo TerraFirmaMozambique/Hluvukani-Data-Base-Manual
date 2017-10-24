@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Updating Data on Sensitisation Meetings](chapter1.md)
+* [Update Sensitisation Meetings](chapter1.md)
+* [Update People](update-people.md)
 
