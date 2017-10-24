@@ -1,3 +1,14 @@
-# First Chapter
+# Updating Data on Sensitisation Meetings
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+OPEN THE FORM **Hluvukani\_A\_encontros\_sensibilizacao.xlsx** FROM **Y:\projects\illovo\dbupdate**
+
+Enable content and Refresh All via the data tab
+
+On the macro tab, run the macro **hluvukani\_A\_encontros\_prep** from "This Workbook"
+
+
+
+
+
+
+
