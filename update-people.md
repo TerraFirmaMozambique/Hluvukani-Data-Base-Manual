@@ -12,7 +12,7 @@ The following message will appear:
 
 Answer YES
 
-Close Hluvukani\_B\_Registrar\_Pessoas.xlsx
+Close **Hluvukani\_B\_Registrar\_Pessoas.xlsx**
 
 Open pgADMIN
 
@@ -21,8 +21,6 @@ Attach to the database tree of hluvukani
 Open query tools, open file **hluvukani\_update\_form\_b\_pessoas**
 
 Execute the query
-
-
 
 This updates TABLE “public.update\_form\_b\_pessoas” in the database
 
