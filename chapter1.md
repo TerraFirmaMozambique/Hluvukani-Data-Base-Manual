@@ -14,15 +14,17 @@ Answer YES
 
 Close Hluvukani\_A\_encontros\_sensibilizacao.xlsx
 
-
-
 Open pgADMIN
 
-Attach to the database tree of hluvukani 
+Attach to the database tree of hluvukani
 
 Open query tools, open file **hluvukani\_update\_form\_a\_encontros\_sensibilizacao**
 
 Execute the query
+
+
+
+This updates TABLE “public.form\_a\_encontros\_sensibilizacao” in the database
 
 
 

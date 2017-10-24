@@ -18,7 +18,7 @@ Open pgADMIN
 
 Attach to the database tree of hluvukani
 
-Open query tools, open file **hluvukani\_update\_form\_b\_pessoas** 
+Open query tools, open file **hluvukani\_update\_form\_b\_pessoas**
 
 Execute the query
 
