@@ -38,7 +38,7 @@ This updates TABLES:
 * TABLE public.form\_c\_pontos
 * TABLE public.form\_c\_tetsemunhas
 * TABLE public.form\_c\_titulares
-* TABLE public.update\_novas\_pessoas which is used in the Vfront for validating Proof of Life. http://tfmoz.ddns.net/hluvukani/vfront/ 
+* TABLE public.update\_novas\_pessoas which is used in the Vfront for validating Proof of Life. [http://tfmoz.ddns.net/hluvukani/vfront/](http://tfmoz.ddns.net/hluvukani/vfront/) 
 
 
 
