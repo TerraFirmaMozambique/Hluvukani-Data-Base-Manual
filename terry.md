@@ -12,7 +12,7 @@ Nested sql manages changes to the parcel number which may have been made to refl
 
 The "public.party" table is dropped and rebuilt, which reflects any changes made to the Persons in form B or those new persons added in form C.
 
-An declarations updating table is constructed and any new declerations are added to the public.certification table with the associated production date 'now' the geom is transformed from WGS84 to WGS84/UTM36S and areas and MIN MAX X & Y 's are calculated and the table updated
+An declarations updating table is constructed and any new declerations are added to the public.certification table with the associated production date 'now' the geom is transformed from WGS84 to WGS84/UTM36S and areas and min - max X & Y 's are calculated and the table updated.
 
 ---
 
