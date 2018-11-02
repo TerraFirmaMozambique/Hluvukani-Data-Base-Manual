@@ -1,4 +1,4 @@
-# **Updating the declaration table \(public.certification\) Illovo hluvukani database.**
+# Updating Decleration Table
 
 After OCC phase has been completed and names and detailes altered through VFront and spatial data has been corrected in QGIS
 
@@ -14,12 +14,8 @@ The "public.party" table is dropped and rebuilt, which reflects any changes made
 
 An declarations updating table is constructed and any new declerations are added to the public.certification table with the associated production date 'now' the geom is transformed from WGS84 to WGS84/UTM36S and areas and min - max X & Y 's are calculated and the table updated.
 
----
-
 Thoughts for ongoing administration:
 
 1. Need to produce list of Parcels not certified and the reason why so they can be further investigated
 2. Need to produce a list giving a count of certificates and the date they where produced on
 3. 
-
-

@@ -1,4 +1,4 @@
-# Updating Data on People
+# Update People
 
 OPEN Excel File **Hluvukani\_B\_Registrar\_Pessoas.xlsx** FROM **Y:\projects\illovo\dbupdate**
 
@@ -8,7 +8,7 @@ On the macro tab, run the macro **hluvukani\_b** from "This Workbook"
 
 The following message will appear:
 
-![](/assets/people_update_warn.png)
+![](.gitbook/assets/people_update_warn.png)
 
 Answer YES
 
@@ -29,6 +29,4 @@ It also places a new names lists for use in form C in “/var/lib/share/projects
 * Norte.csv
 * Central.csv
 * Sul.csv
-
-
 

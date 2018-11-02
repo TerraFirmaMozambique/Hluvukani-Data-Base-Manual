@@ -1,4 +1,4 @@
-# Updating Data on Parcels
+# Update Parcels & Related Tables
 
 OPEN Excel File **Hluvukani\_C\_V1\_Parcelas.xlsx** FROM **Y:\projects\illovo\dbupdate**
 
@@ -8,15 +8,15 @@ On the macro tab, run the macro **form\_c\_prep\_csvs** from "This Workbook"
 
 The following messages will appear:
 
-![](/assets/parcelas_update_warn.png)
+![](.gitbook/assets/parcelas_update_warn.png)
 
-![](/assets/titulares_update_warn.png)
+![](.gitbook/assets/titulares_update_warn.png)
 
-![](/assets/novas_update_warn.png)
+![](.gitbook/assets/novas_update_warn.png)
 
-![](/assets/testemunhas_update_warn.png)
+![](.gitbook/assets/testemunhas_update_warn.png)
 
-![](/assets/pontos_update_warn.png)
+![](.gitbook/assets/pontos_update_warn.png)
 
 Answer YES to ALL
 
@@ -39,6 +39,4 @@ This updates TABLES:
 * TABLE public.form\_c\_tetsemunhas
 * TABLE public.form\_c\_titulares
 * TABLE public.update\_novas\_pessoas which is used in the Vfront for validating Proof of Life. [http://tfmoz.ddns.net/hluvukani/vfront/](http://tfmoz.ddns.net/hluvukani/vfront/) 
-
-
 
